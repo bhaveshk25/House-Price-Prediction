@@ -1,0 +1,12 @@
+# Core Data Science & Machine Learning Libraries
+pandas>=2.0.0
+numpy>=1.23.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+
+# TensorFlow Decision Forests (for notebook.ipynb)
+# Note: On macOS ARM64 (Apple Silicon), install compatible wheels or run in Google Colab / Kaggle
+tensorflow>=2.13.0
+tensorflow_decision_forests>=1.5.0
