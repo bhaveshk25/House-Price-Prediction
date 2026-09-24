@@ -120,4 +120,3 @@ Both datasets are bundled in the `data/` folder for immediate out-of-the-box exe
 
 - **TF-DF Architecture**: Inspired by the Kaggle notebook ["House Prices Prediction using TFDF"](https://www.kaggle.com/code/gusthema/house-prices-prediction-using-tfdf) by Gusthema.
 - **Competition Dataset**: [Kaggle House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques).
-- **Portfolio Reference**: Adapted from [UsmarHaider/100-ai-ml-projects](https://github.com/UsmarHaider/100-ai-ml-projects/tree/main/projects/006-house-price-prediction).
